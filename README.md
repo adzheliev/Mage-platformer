@@ -8,10 +8,10 @@ Or you can make your own build for your platform
 
 <img width="651" alt="image" src="https://github.com/adzheliev/Mage-platformer/assets/109296176/e7b50a47-a424-4883-bcb8-41f9ecc8fc2e">
 
-Controls
+Controls:
 a - left
 d - right
-spaca - jump
+space - jump
 mouse left button - fire
 
 Enjoy!
